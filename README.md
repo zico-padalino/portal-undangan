@@ -1,12 +1,4 @@
-# PortalUndangan — Undangan Digital untuk Setiap Momen
 
-PortalUndangan: 8 undangan digital dengan karakter berbeda — pernikahan, lamaran, khitanan, aqiqah, ulang tahun, wisuda, reuni, dan korporat.
-
-**Demo live:** https://www.pintuweb.com/undangan-digital
-
-![Tangkapan layar PortalUndangan](public/og.jpg)
-
-> Katalog demo milik PintuWeb. Setiap kartu menautkan ke demo live yang bisa dicoba.
 
 ## Konsep
 
